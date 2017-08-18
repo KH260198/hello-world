@@ -1,2 +1,4 @@
 # hello-world
-repository no.1
+
+A student., new to coding!
+
